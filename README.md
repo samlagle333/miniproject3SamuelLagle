@@ -7,7 +7,7 @@
 
 ## Description
 
-This project uses Flask to develop a web application that allows for registering and logging in of user accounts, has a backend SQLlite database for storing data, and allows for blog posting.
+This project uses Flask to develop a web application that allows for registering and logging in and out of user accounts, has a backend SQLlite database for storing data, and allows for blog posting. Bootstrap was utilized to create a modul for the blog editing functionality.
 
 ## Getting Started
 
@@ -38,8 +38,6 @@ Samuel Lagle
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [matplotlib](https://matplotlib.org/)
-* [chatgpt](https://chatgpt.com/share/6717d285-8818-8000-a445-2c0aff5b1f3a)
-* [kaggle](https://www.kaggle.com/datasets/infosecjobs/global-salaries-in-cybersecurity-infosec)
-* [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html)
-* [seaborn](https://seaborn.pydata.org/)
+* [chatgpt](https://chatgpt.com/share/671bf733-c230-8010-84ec-80cdaacb8b4f)
+* [Flask](https://flask.palletsprojects.com/en/stable/)
+* [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/)
